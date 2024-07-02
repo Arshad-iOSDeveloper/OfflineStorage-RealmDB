@@ -1,0 +1,78 @@
+{
+  "PatientDetails": [
+    {
+      "name": "Demo",
+      "age": 10,
+      "gender": "Male",
+      "TestList": [
+        {
+          "testName": "CBC",
+          "amount": 100
+        },
+        {
+          "testName": "Serum",
+          "amount": 150
+        }
+      ],
+      "Process1": {
+        "name": "Process 1",
+        "SubProcess1": [
+          {
+            "Question 1": "How are you?"
+            "answer": ""
+          },
+          {
+            "Question 2": "What is your age?"
+            "answer": ""
+          }
+        ],
+        "SubProcess2": [
+          {
+            "Question 1": "What do you want?"
+            "answer": ""
+          },
+          {
+            "Question 2": "Tell me something?"
+            "answer": ""
+          },
+          {
+            "Question 3": "Where are you from?"
+            "answer": ""
+          }
+        ]
+      }
+    },
+    {
+      "name": "Admin",
+      "age": 25,
+      "gender": "FeMale",
+      "TestList": [
+        {
+          "testName": "Lipid Profile",
+          "amount": 125
+        },
+        {
+          "testName": "Lipase",
+          "amount": 170
+        },
+        {
+          "testName": "Blood Sample",
+          "amount": 230
+        }
+      ],
+      "Process1": {
+        "name": "Process 1 of patient 2",
+        "SubProcess1": [
+          {
+            "Question 1": "How are you?"
+            "answer": ""
+          },
+          {
+            "Question 2": "What is your age?"
+            "answer": ""
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "records": [
+    {
+      "isApproved": 0,
+      "comments": "CRM PACKAGE - Appointment (#2463 hqqtc_PromotionCrm), Requested By Patient",
+      "userDetailsId": {
+        "patientType": "",
+        "lastKnownBillDate": "2023-10-27T06:23:48Z",
+        "age": "2.9 years",
+        "address": "Phoenix",
+        "id": 98462622,
+        "fullName": "testing Testing",
+        "sex": "Male",
+        "contact": "9843655555"
+      },
+      "manualSampleID": "",
+      "sampleDate": "2023-10-28T03:30:00Z",
+      "autoSampleID": 23616
+    }
+  ]
+}
